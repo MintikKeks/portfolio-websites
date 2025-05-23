@@ -1,7 +1,10 @@
-.Cms2 {
+div.Cms2 {
     text-align: right;
     font-family: 'Courier New', Courier, monospace;
-    text-decoration: none ;
+}
+
+.class12 {
+    text-decoration: none;
     color: rgb(137, 5, 48);
 }
 
